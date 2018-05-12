@@ -1,4 +1,8 @@
 _repo: Whole-Body-Counters_49641
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49641-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Woodburn, John H.
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45464'
     url: http://www.gutenberg.org/2009/agents/45464
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49641#Whole-Body-Counters
 gutenberg_issued: '2015-08-06'
 gutenberg_type: Text
 identifiers:
